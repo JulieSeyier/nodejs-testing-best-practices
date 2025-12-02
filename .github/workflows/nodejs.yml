@@ -33,7 +33,7 @@ jobs:
       - run: npm test
       - run: npm run test:nestjs
     
-    tests:
+  tests:
     runs-on: ubuntu-latest
 
     steps:
